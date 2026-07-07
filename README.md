@@ -65,7 +65,7 @@ Scripts were AI-assisted and verified by the author:
 |--------|---------|
 | `raman/plot_deconvolution_zoom.py` | Raman band deconvolution with Lorentzian fitting |
 | `raman/plot_ito_subtraction.py` | ITO background subtraction for thin-film Raman |
-| `xps/plot_xps_overlay.py` | 3-panel XPS overlay (C 1s, O 1s, N 1s) |
+| `xps/deconvolution-xps.py` | Full XPS peak deconvolution (C 1s, N 1s, O 1s) with GL/LA lineshapes and Shirley background |
 | `conductance/plot_conductance.py` | G = I/V in G₀ units from pulse transients |
 | `conductance/plot_ppf_conductance.py` | PPF conductance evolution over 50 pulses |
 | `cdf/plot_final_cdf.py` | Weibull cumulative probability of Vset |
