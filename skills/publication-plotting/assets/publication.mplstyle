@@ -1,0 +1,33 @@
+# Publication-quality matplotlib style
+# General-purpose style for journal figures
+
+font.family: sans-serif
+font.sans-serif: Arial, Helvetica
+font.size: 8
+
+axes.labelsize: 9
+axes.titlesize: 10
+axes.linewidth: 1.0
+axes.spines.top: False
+axes.spines.right: False
+
+xtick.labelsize: 7
+xtick.direction: in
+xtick.top: False
+
+ytick.labelsize: 7
+ytick.direction: in
+ytick.right: False
+
+lines.linewidth: 1.5
+lines.markersize: 4
+
+legend.fontsize: 7
+legend.frameon: False
+
+figure.dpi: 300
+savefig.dpi: 300
+savefig.bbox: tight
+savefig.pad_inches: 0.1
+
+image.cmap: viridis

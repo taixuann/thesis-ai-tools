@@ -1,0 +1,33 @@
+# Nature journal matplotlib style
+# Inward ticks, compact layout, small fonts
+
+font.family: sans-serif
+font.sans-serif: Arial, Helvetica
+font.size: 7
+
+axes.labelsize: 8
+axes.titlesize: 9
+axes.linewidth: 1.0
+axes.spines.top: False
+axes.spines.right: False
+
+xtick.labelsize: 6
+xtick.direction: in
+xtick.top: True
+
+ytick.labelsize: 6
+ytick.direction: in
+ytick.right: True
+
+lines.linewidth: 1.5
+lines.markersize: 3
+
+legend.fontsize: 6
+legend.frameon: False
+
+figure.dpi: 600
+savefig.dpi: 600
+savefig.bbox: tight
+savefig.pad_inches: 0.1
+
+image.cmap: viridis
